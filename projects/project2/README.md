@@ -1,3 +1,5 @@
+# For this project, I implemented src/basics.ml
+
 # Project 2A: OCaml Warmup
 
 Due: Wednesday June 17, 2020 at 23:59
