@@ -1,4 +1,4 @@
-For this project, I implemented src/data.ml and src/higher.ml
+# For this project, I implemented src/data.ml and src/higher.ml
 
 # Project 2B: OCaml Higher Order Functions and Data
 
