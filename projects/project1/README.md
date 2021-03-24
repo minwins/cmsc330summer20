@@ -1,3 +1,5 @@
+# For this project, I implemented Maze.rb
+
 # Project 1: Maze Solver
 CMSC 330, Spring 2020
 Due June 10, 2020 (Late June 11, 2020)
