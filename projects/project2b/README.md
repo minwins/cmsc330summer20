@@ -1,3 +1,5 @@
+For this project, I implemented src/data.ml and src/higher.ml
+
 # Project 2B: OCaml Higher Order Functions and Data
 
 Due: Wed 24 Jun 2020 11:59 PM EDT, Late: Thu 25 June 2020 11:59 PM
