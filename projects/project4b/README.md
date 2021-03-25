@@ -1,10 +1,6 @@
-# For this project, I implemented src/eval.ml, src/lexer.ml, and src/parcer.ml
-
 # Project 4B: SmallC Interpreter
 
-Due Fri, July 17 at 11:59pm (Late: Sat, Jul 18 at 11:59pm)
-
-P/SP/S: 50/50/0
+**For this project, I implemented src/eval.ml, src/lexer.ml, and src/parcer.ml**
 
 ## Introduction
 
