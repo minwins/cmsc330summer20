@@ -1,10 +1,6 @@
-# For this project, I implemented src/lexer.ml and src/parcer.ml
-
 # Project 4A: SmallC Parser
 
-Due: Monday, July 13, (Late July 14) at 11:59:59 PM
-
-Points: 48P/52SP/0S
+**For this project, I implemented src/lexer.ml and src/parcer.ml
 
 ## Introduction
 
