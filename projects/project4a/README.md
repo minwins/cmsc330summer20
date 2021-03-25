@@ -1,6 +1,6 @@
 # Project 4A: SmallC Parser
 
-**For this project, I implemented src/lexer.ml and src/parcer.ml
+**For this project, I implemented src/lexer.ml and src/parcer.ml**
 
 ## Introduction
 
