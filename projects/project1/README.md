@@ -1,4 +1,4 @@
-# For this project, I implemented Maze.rb
+For this project, I implemented Maze.rb
 
 # Project 1: Maze Solver
 CMSC 330, Spring 2020
