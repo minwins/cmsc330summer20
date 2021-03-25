@@ -1,10 +1,6 @@
-# For this project, I implemented src/basics.ml
-
 # Project 2A: OCaml Warmup
 
-Due: Wednesday June 17, 2020 at 23:59
-
-Points: 65P/20SP/15S
+**For this project, I implemented src/basics.ml**
 
 ## Preface
 OCaml has an program and testing environment which might be different from what most students have seen. 
