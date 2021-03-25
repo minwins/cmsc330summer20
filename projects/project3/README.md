@@ -1,12 +1,6 @@
-# For this project, I implemented src/nfa.ml and src/regexp.ml
-
 # Project 3: Regular Expression Engine
 
-Due: ~~Friday, July 3 2020~~ Sunday, July 5, 2020
-
-Late: ~~Saturday, July 5 2020~~ Monday, July 6, 2020
-
-Points: 35P/35SP/30S
+**For this project, I implemented src/nfa.ml and src/regexp.ml**
 
 ## Overview
 
