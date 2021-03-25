@@ -1,8 +1,7 @@
 # Project 1: Maze Solver
 CMSC 330, Spring 2020
-Due June 10, 2020 (Late June 11, 2020)
 
-**This is an individual assignment. You must work on this project alone.**
+**For this project, I implemented Maze.rb**
 
 ### Introduction
 As we saw in lecture, Ruby provides rich support for tasks that involve text processing. For this project, you'll write a Ruby program that processes text files containing maze data, and you will analyze that data to determine certain features of each maze. The goal of this project is to allow you to familiarize yourself with Ruby's built-in data structures and text processing capabilities.
